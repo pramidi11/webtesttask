@@ -4,7 +4,7 @@ To run tests:
 
 1   Clone this repository
 
-2   Run command "mvn test" in the projects directory   
+2   Run command "mvn test" in the project directory   
 
 
 #Tests
